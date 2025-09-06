@@ -28,20 +28,20 @@ Available at: https://releases.toolmatex.com/releases
 The app includes an auto-updater that will check for new versions automatically and notify you when updates are available.
 
 ## 📚 More Information
-- **Source Code**: [GitHub Repository](https://github.com/zonayedpca/toolmatex-desktop-app)
-- **Latest Release**: [GitHub Releases](https://github.com/zonayedpca/toolmatex-desktop-app/releases/latest)
-- **Release Notes**: Check the GitHub releases page for detailed changelogs
+- **Source Code**: [GitHub Repository](https://github.com/ToolMateX/app)
+- **Latest Release**: [GitHub Releases](https://github.com/ToolMateX/app/releases/latest)
+- **Release Notes**: Check the GitHub releases page for detailed changelogs 
 
 ## 📊 Current Release
 ```json
 {
-  "version": "0.1.20250906132623",
-  "date": "2025-09-06T13:26:23Z",
-  "commit": "d4ea08b99e0adb8dd580fd1a74abef4ca65d23d3",
+  "version": "0.1.20250906134024",
+  "date": "2025-09-06T13:40:24Z",
+  "commit": "62a9a09cda626673e454fb9aa3d4ffb140425dc8",
   "branch": "release",
   "platforms": [],
-  "source_repo": "zonayedpca/toolmatex-desktop-app",
-  "release_url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/tag/v0.1.20250906132623",
+  "source_repo": "ToolMateX/app",
+  "release_url": "https://github.com/ToolMateX/app/releases/tag/v0.1.20250906134024",
   "cloudflare_url": "https://releases.toolmatex.com/releases"
 }
 ```
