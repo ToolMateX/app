@@ -35,13 +35,13 @@ The app includes an auto-updater that will check for new versions automatically 
 ## 📊 Current Release
 ```json
 {
-  "version": "0.1.20250906131205",
-  "date": "2025-09-06T13:12:05Z",
-  "commit": "cda3f739b454e0ddc40fb0f0f40ea3adb64dec1a",
+  "version": "0.1.20250906132623",
+  "date": "2025-09-06T13:26:23Z",
+  "commit": "d4ea08b99e0adb8dd580fd1a74abef4ca65d23d3",
   "branch": "release",
   "platforms": [],
   "source_repo": "zonayedpca/toolmatex-desktop-app",
-  "release_url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/tag/v0.1.20250906131205",
+  "release_url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/tag/v0.1.20250906132623",
   "cloudflare_url": "https://releases.toolmatex.com/releases"
 }
 ```
