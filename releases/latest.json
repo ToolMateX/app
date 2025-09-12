@@ -10,6 +10,10 @@
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWpFSHk1eDd3ektNNENzWDFDVXFmYWZvM2txVCttUWpkSXhsUWNRbE5QckFDWEJpRW1HZ1dFVXFldUNybjVLRmJNYUJJZ1hKRGZ4c1BPazNyRG5tZXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTMwCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp6anl6dVp6Qk5MdkxWbnhTdkp1Mlk2WjgwVWJHTUhFY2RCRkltMjh3ZlZmNDBvYVYwYjhNYm14bldZZFIxWjI1RUFldHJVdktndmJycG8yeS9TQU5EUT09Cg==",
       "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_amd64.AppImage"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWpFSHk1eDd3ektNNENzWDFDVXFmYWZvM2txVCttUWpkSXhsUWNRbE5QckFDWEJpRW1HZ1dFVXFldUNybjVLRmJNYUJJZ1hKRGZ4c1BPazNyRG5tZXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQ2OTMwCWZpbGU6VG9vbG1hdGVYIEFwcF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp6anl6dVp6Qk5MdkxWbnhTdkp1Mlk2WjgwVWJHTUhFY2RCRkltMjh3ZlZmNDBvYVYwYjhNYm14bldZZFIxWjI1RUFldHJVdktndmJycG8yeS9TQU5EUT09Cg==",
+      "url": "https://releases.toolmatex.com/releases/ToolmateX App_0.1.0_aarch64.dmg"
     }
   }
 }
