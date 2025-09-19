@@ -8,16 +8,10 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXZpWlhueEFqWGM5YWlsbHdCZ09yQUhTN0o5MkpiZnVkYWJORE1XS29qNWkvbmcyQXBucGJLL2JSd3N3R2NLTy90U3FxS0swcXljRGJlZVBvU0FkQkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3OTk2NzIyCWZpbGU6VG9vbE1hdGVYXzAuOS4wX3g2NC1zZXR1cC5leGUKMHRVQ3g2cGc5R0JuYnkyN01SKzdKa05vZzVKeVNrRGRSMGxaa3VFSng3RnVhdnl5Wllqd1FBZTB6NkNwREptR0l5WDYraUFGNkNXT0E3eC9xOG1pQ0E9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.0/ToolMateX_0.9.0_aarch64.dmg"
-    },
-    "darwin-x86_64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.0/ToolMateX_0.9.0_x64.dmg"
-    },
-    "darwin-aarch64-updater": {
       "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.0/ToolMateX_0.9.0_aarch64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydW1nZjlGdmkwOWdSdU4vdnY4WEx6Z1RJM0wvQkxLWTNZdytpcmdPZ1NmYXZoUzc5d1AzQWk0V05xVUxiNFlMQnpwamQ4TWxheW13N1lFRURyeHVIUFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3OTk2NDIyCWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKT2J1djJrOG5MY0pEYnliQ3JQNVNwTnRJOFNoNDFSZDN1WWtrZGVmYXZKNC8yS1RLczZoZSsrbC9PL2Y2Zm9NVzY5M1dJVzRySWtTOVo2TzhxdWM4REE9PQo="
     },
-    "darwin-x86_64-updater": {
+    "darwin-x86_64": {
       "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.0/ToolMateX_0.9.0_x64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWw4ZzU4cmIxU3dCVDljdjFEYjBKZ1pZR0NCNTVPdURSbDVCYUt1MjJxSlk3RDdHSW1nemdFU0ppUFRpWnVqUmE0d2FhTXB1NzRua1cyL3ZzQkkwZFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3OTk2Mjg3CWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKTXZGekQ1ajIwemYycjYyK0FDNEUvWmxwQUV3UTJpY0IrNy9CTFVtd1FyOWtDeDFvdm12Vis3YmhYQlJHNUt0TDNGbFRPNUhWSEZJS3ZPQlozQlFYQ0E9PQo="
     }
