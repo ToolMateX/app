@@ -4,19 +4,19 @@
   "pub_date": "2025-09-21T03:24:13Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.1/ToolMateX_0.9.1_x64-setup.exe",
+      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXV6Mld3cVlhNHRkWlJ5bmVnYzkyUjU3d3FEcHZQVitGK2dOajNIR01EYXRTYWFHYW5uNVBJdFQ0TThqS2VSL1h2T0k1QTQrbDdJY04waUx4ZnNuRWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0ODgzCWZpbGU6VG9vbE1hdGVYXzAuOS4xX3g2NC1zZXR1cC5leGUKTlFTQUkrWlpPMVNGRCtRR0pBcHFjT0VCNzBLTkNaL2hQN1pDcU9vQTlFN3kxaVhzbFN1bXZYb3kycUhsT21nTGs4WXN1Ym94T3EyeXhXTVFTeDZQQ2c9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.1/ToolMateX_0.9.1_aarch64.app.tar.gz",
+      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_aarch64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWc3VzJXSlpmVncvcW54a3NKRFBMWmVLVzNoSTBNaHRQaVlZQUo3b2duUzFIWEQwMUlUV1dZUThGVHp1a0MyRFBYV3lITW92VDJHODhMUmZSYjlJSWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0MTA1CWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKY2orcWVKNXV2R2lneUozWFIzU2pqdVNCZkNIWVMzVzFKTGNYaDMydjB1R1VvcGVxd2ZBcDBYek9qUy9ha0psY3dRZWhPRllGTkFnblVrNjBqb2VmQWc9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.1/ToolMateX_0.9.1_x64.app.tar.gz",
+      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_x64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXIyUldYMXh3VFNLNzdJNXhXL1RlV3pjRnNJOStZbHBtSEdoRWRsZzAvNFRnVzczTVZVT0dpdm4xTzVZMDhQL2t1TW5vdmNCNlFVbDlERUJGODJvN3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0MTkyCWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKWnFnWTBDazdLT3lsMGhvYXpCTDJaUmU3eWZoUDhWbExKaEFsTzc2NmNhTTFBdWtXQlBnN0NXMWM3MDJmazcwUCtrcnlzQjllNFJ4R3J4VmNYYjdVQ2c9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/zonayedpca/toolmatex-desktop-app/releases/download/v0.9.1/ToolMateX_0.9.1_amd64.AppImage",
+      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_amd64.AppImage",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWxXUmxiZk1obTNrMW41eEE1MldtUktTOEdZZFR0SS9MR2w2NCt5dnJtQ2hxZ3d1aXJBVlBYT2pIWkpxM0dJUVEwRkVGRWN5NEozeGozMVFPNUsxcmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0NjYxCWZpbGU6VG9vbE1hdGVYXzAuOS4xX2FtZDY0LkFwcEltYWdlClY4UWFLdWtCMlk5S0FFN3VTWHpVMktZS3M5R1MrejFCYTNTNnA4RHJkZUxQdnBVWVpDcEhhOUFJVnVTOXMwaEw1c0g3aU1OY21IUFJ1YmNpb3M4T0F3PT0K"
     }
   }
