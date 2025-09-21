@@ -4,8 +4,8 @@
   "pub_date": "2025-09-21T03:24:13Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWhEVXFmeVdUTndRK2NXUWQ1cUJWbkMxMFh3MFd6RGpyOE96ZEZaZ1BHSC9DYU1MSVVacUFvZXRVK21VOFZnaUJydE5zNnhYeG5UWjREaEI2b1lCenc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0ODgzCWZpbGU6VG9vbE1hdGVYXzAuOS4xX3g2NF9lbi1VUy5tc2kKc25Gdi9GRHBqbmFsSE94cmxtMW5tTXJhMzhBZWlsNlRUL3JoTzgwSm9hOWhNUjdaSnFBY2pLMDZSa2NYYktMbW5KMnFYWnFabExCQ3NLa1F5QUU3Q2c9PQo="
+      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXV6Mld3cVlhNHRkWlJ5bmVnYzkyUjU3d3FEcHZQVitGK2dOajNIR01EYXRTYWFHYW5uNVBJdFQ0TThqS2VSL1h2T0k1QTQrbDdJY04waUx4ZnNuRWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NDI0ODgzCWZpbGU6VG9vbE1hdGVYXzAuOS4xX3g2NC1zZXR1cC5leGUKTlFTQUkrWlpPMVNGRCtRR0pBcHFjT0VCNzBLTkNaL2hQN1pDcU9vQTlFN3kxaVhzbFN1bXZYb3kycUhsT21nTGs4WXN1Ym94T3EyeXhXTVFTeDZQQ2c9PQo="
     },
     "darwin-aarch64": {
       "url": "https://github.com/ToolMateX/app/releases/download/v0.9.1/ToolMateX_0.9.1_aarch64.app.tar.gz",
