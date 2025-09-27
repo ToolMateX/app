@@ -1,23 +1,23 @@
 {
-  "version": "0.9.2",
-  "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-09-22T07:11:54.466Z",
+  "version": "1.0.0",
+  "notes": "Final Public Release",
+  "pub_date": "2025-09-27T14:10:26.238Z",
   "platforms": {
-     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXJHSVZ4VzB5SmZoQ0xWbElPMGdib3pSeGJmOU5iYWJzMmtGK2NveEZ5cEt4Qld4RTNBKytBTXRubnFyNXJyZEVlc0VyTy9Pb3Z1ekh2UUZHQlkveEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTI1NTUyCWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKRmJYdGxZMk9yblRWaWV1TkIvQkJUOVZ0d1RFNGl6NitVbTYvRHJ4VDMyMmw2U0ZxczlUQlBCUnJzS3kzeTh6bUZ6a25nd1NMNmo1dTlDZDVQMFpQQlE9PQo=",
-      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.2/ToolMateX_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWhFeVkyK0FCbk00YjlaSFN5TkZ6eTV2R2tDU3FJclp6SDI4bnhFcUcybEVFNi9zTlhrTTZVdmZLWHVIZ25FN3dzN2NFbmJqZCtjaUxxYVdZZVlWUEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTI0NDI1CWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKVU5iemF4RUxIcmF2Uk1WUnRzc2NtQ3p2V0ZaWDc3OExsMzBSQlRrbUZ4aE9kYVhLMm1Jd3J0QUFOSk9hSnJTRjdnTnBJYiszUXAvRmliNlg0cnBSQVE9PQo=",
-      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.2/ToolMateX_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydW9sQ00va083b0xWM2lxVVdmZkltY2hnZlArQVJGa0EvNi8yQi9vMXFPKzJJVzVzTytJS3RkYUQrY3EwSGFyN05mRzdZc3BTdnVFM09BU1h2TnRIOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTgxOTAzCWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKTzVvU3UrNXN1TG51LzBlWE9FMjZraGREcjhUTU1JbSt6NDVuZkFPMFV2M1lJU1ZZUUNEVWdJUzAvNTB3MC8rVkRockJrTVovbFlTSUkxV0IvSUthRHc9PQo=",
+      "url": "https://github.com/ToolMateX/app/releases/download/v1.0.0/ToolMateX_x64.app.tar.gz"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXN5d2Z2OVNNRUJ0Z3JMdGMzRDFlOEhXZGRsM2ZMaTA1R3dweGJYVFQ1QUQvRUMvRE4wdi9rb3drWVl2T1U2NjNPRWtZLzVHNTkxTzFldTFLQkVJMWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTI0NzE2CWZpbGU6VG9vbE1hdGVYXzAuOS4yX3g2NF9lbi1VUy5tc2kKY3pPTEdUbjNqZ2dVck9Va0pGUDI4VG56NlF5N1MvTXpuLzNnVy83NFFPQUlaSTRqWEU3TnJveDFYNjQ3eUtjSzBMS01NYVJJNVZsQW53OHo0WTB0Qmc9PQo=",
-      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.2/ToolMateX_0.9.2_x64_en-US.msi"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWxjMlFIZGdjTmVCb0ZjRHdiYVhsNFNNVmZ6L1BmU2hZcHUvMHZIbW9WaVN1T1dKQ0JocGYwNWxpb0wwdEpFdkRZMTNKUFk4Vi8xcmQvZytTK3JHYndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTgyMDA3CWZpbGU6VG9vbE1hdGVYLmFwcC50YXIuZ3oKQVc2VGdyMnJ5b3pnV1hLaE5XbE16QmF0M0FRK3NEYTUwcUZGT2dsQ2FTREJmazMwNTVLZUZVa1lTbW4yMmQzODArVytHamQzaGV6S1FGVEZjWWM1QUE9PQo=",
+      "url": "https://github.com/ToolMateX/app/releases/download/v1.0.0/ToolMateX_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWhhK0dLdmg2SDd6TlJVZFBIY0xWN1FUcVhkWVZRaTJCOFNuME84WHhCempjdTNkNU1sYTFobEZienJpMjhEUkRDTU5IUGlobzZSTHZ5SWpuTEZaQUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTI1MTA4CWZpbGU6VG9vbE1hdGVYXzAuOS4yX2FtZDY0LkFwcEltYWdlClljVll5MHVaZjFXZDFZNk5MSnhjKzM0d1ljaTZpUEVnRDNkTkVHS3lKeC9HNDNWVlNHVi9Pc0UxcUFvbWFKeG43UkhYbDJvaWg2aEpOdEhQZnpZQURRPT0K",
-      "url": "https://github.com/ToolMateX/app/releases/download/v0.9.2/ToolMateX_0.9.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydXQwc1g4Q0paekc5Z2dXTFVVRit2UXJWaEtGd2wzYWFZZ1Y1UlF1Z2c1VG5rSVVNdmJFWTlsMDJaN0xXaUp6ZHNBZmFGYTVXV1FPNllEcnNyWWdkdEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTgyMTAzCWZpbGU6VG9vbE1hdGVYXzEuMC4wX2FtZDY0LkFwcEltYWdlCk1haWlEMXN4VXBKRE1jUS8vSHpQcjlQMVI5elpIYWFrZ0trNmE1dGZteVI3ZVlFRnVFbnEwQWN2b3Zid04yNE9tRnEyNXM4MEgrcVFLRkIvREx3TEJBPT0K",
+      "url": "https://github.com/ToolMateX/app/releases/download/v1.0.0/ToolMateX_1.0.0_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMi95VVQ2OG1ydWx5T2xRYUZHclpNaG5QL09zUnFJVmQ1aFRxdTQ4aDVmbEhZM0xwQ2JHbjdQWEJGN2NPdzRQdmhxeVJhMWtxUXJOdzRLZWhvMDQ5ZlU5eGMvclEveUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4OTgyMjIyCWZpbGU6VG9vbE1hdGVYXzEuMC4wX3g2NF9lbi1VUy5tc2kKdUhibVdxOU5oZ0pPcURCc1FvRGpVcDVBOGhIRVdROHBLRTZkbkhDK3dmVnNFdW1kOGFiL2lrUTFqcVZjQ3I4RnZkMFV3T0tZT3J6WnlFbnpIOExZQXc9PQo=",
+      "url": "https://github.com/ToolMateX/app/releases/download/v1.0.0/ToolMateX_1.0.0_x64_en-US.msi"
     }
   }
 }
